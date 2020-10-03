@@ -5,7 +5,7 @@ This repo contains contributions to project Acharya, an Open Smart Education Ini
 
 # How to make Contributions
 
-You can submit Jupyter notebooks that illustrates the working of machines learning algorithms or application of the machine learning algorithms. Please check the topics to be covered. However, you do not have to restrict the submissions to the list of topics to be covered
+You can submit Jupyter notebooks that illustrates the working of machines learning algorithms or application of the machine learning algorithms. Please check the topics to be covered. However, you do not have to restrict the submissions to the list of topics to be covered. Make sure to include figures and videos in your notebook. 
 
 
 
